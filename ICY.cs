@@ -1,6 +1,15 @@
 ﻿using System;
 using System.Diagnostics;
 
+//ImplicateX.TinyCLR.Components.Web
+
+//└─ ICY
+//    ├─ Stream
+//    ├─ Player
+//    ├─ Information
+//    ├─ Metadata
+//    └─ UrlResolver
+
 namespace ImplicateX.TinyCLR.Components.Web
 {
 	public sealed partial class ICY : IDisposable
